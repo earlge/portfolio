@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: minimal folio
-email: you@example.com
+title: georges pecquet
+email: georgespecquet@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  Test portfolio
 baseurl: /minimal-folio  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 
