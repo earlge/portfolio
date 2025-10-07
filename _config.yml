@@ -6,7 +6,7 @@ title: georges pecquet
 email: georgespecquet@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Test portfolio
-baseurl: /minimal-folio  # the subpath of your site, e.g. /blog/
+baseurl: /portfolio  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 
 # -----------------------------------------------------------------------------
